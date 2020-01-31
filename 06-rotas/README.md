@@ -1,6 +1,6 @@
-# helloword
+# Cookbook vue - Rotas
 
-> A Vue.js project
+Um componente essencial de uma SPA é o Router que é responsável por mostrar/esconder um ou mais elementos dependendo da URL que se acessa no browser. Esta é sua única responsabilidade, o que não significa que seja uma ferramenta simples! :)
 
 ## Build Setup
 
