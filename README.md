@@ -1,7 +1,18 @@
 # vue-cookbook
 
-## vuejs examples
+## vue.js examples
 
-### para rodar:
+## Build Setup
 
-#### npm i em cada repositório para baixar as dependências e depois npm run dev para rodar em desenvolvimento :)
+for each path
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
